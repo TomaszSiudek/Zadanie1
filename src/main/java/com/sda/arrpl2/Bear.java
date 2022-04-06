@@ -5,7 +5,12 @@ import java.util.Scanner;
 
 public class Bear {
 
-    String imie;
-    int wiek;
+
+    public static void main(String[] args) {
+
     }
+        String imie;
+        int wiek;
+
 }
+
